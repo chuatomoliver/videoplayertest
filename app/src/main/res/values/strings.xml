@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="movie_thumbnail">thumbnail</string>
+</resources>
